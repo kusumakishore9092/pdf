@@ -1,0 +1,24 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusumakishore9092/pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusumakishore9092/pdf/issues"
+  },
+  "homepage": "https://github.com/kusumakishore9092/pdf#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "html-pdf": "^2.2.0"
+  }
+}
